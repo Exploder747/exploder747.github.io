@@ -16,3 +16,5 @@ author: Teman Zampano
 6. [Введение в системы нечеткого управления](http://www.gotai.net/documents/doc-l-fl-001.aspx)
 7. [Классификатор в 25 строк кода](https://habr.com/post/120194/)
 8. [Курс по байесовскому классификатору на курсере](https://ru.coursera.org/lecture/supervised-learning/baiiesovskii-klassifikator-05Rhx)
+
+[Back]({{ site.url }}/)
