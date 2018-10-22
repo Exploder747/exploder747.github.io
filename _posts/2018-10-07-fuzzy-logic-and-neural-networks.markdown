@@ -83,3 +83,7 @@ author: Teman Zampano
 **Вид нечеткого нейрона "ИЛИ"**
 
 ![Вид другого нейрона](/assets/or_neuron.jpg)
+
+
+
+[Назад](https://exploder747.github.io/)
