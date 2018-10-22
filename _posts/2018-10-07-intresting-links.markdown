@@ -17,4 +17,4 @@ author: Teman Zampano
 7. [Классификатор в 25 строк кода](https://habr.com/post/120194/)
 8. [Курс по байесовскому классификатору на курсере](https://ru.coursera.org/lecture/supervised-learning/baiiesovskii-klassifikator-05Rhx)
 
-[Back]({{ site.url }}/)
+[Назад](https://exploder747.github.io/)
